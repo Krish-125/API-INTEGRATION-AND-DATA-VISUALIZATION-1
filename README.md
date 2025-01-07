@@ -13,6 +13,10 @@
 # DESCRIPTION
 This Python script fetches weather forecast data for a specified city from the OpenWeatherMap API, processes it, and visualizes the results using Matplotlib and Seaborn.
 
+**Purpose**:
+- To demonstrate how to interact with a public API, process JSON responses, and create meaningful visualizations from the data.
+- To provide users with an easy way to explore temperature patterns for a city of their choice.
+
 **Key Features**:
 1) Fetches 5-day weather forecast data in 3-hour intervals using the OpenWeatherMap API.
 2) Processes the retrieved data to extract timestamps, temperatures, and weather descriptions.
